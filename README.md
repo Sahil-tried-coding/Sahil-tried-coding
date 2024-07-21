@@ -7,24 +7,14 @@
 <br>
 
 
-
-
-
-
-
-
-
-
 ![github-contribution-grid-snake](https://user-images.githubusercontent.com/89845641/218791674-c52db856-24d2-429f-8867-170c365730d1.svg)
 
+###### <h2>Tecnologias</h2>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" witdh="80" height="80"/> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" witdh="80" height="80"/> 
+ <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="80" height="80"/> 
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80" height="80"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="80" height="80"/>
 
-
-<h2>Skills</h2>
-
-<p align="center">
-   <img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" height="48"/>
- 
-</p>
 
 
 <table>
