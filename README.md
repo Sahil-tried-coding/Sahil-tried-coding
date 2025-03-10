@@ -21,8 +21,9 @@
  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" width="80" height="80"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="80" height="80"/> <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" width="80" height="80"/>
 <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" width="80" height="80"/>
-
-
+<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" width="80" height="80"/>
+<img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" width="80" height="80"/>
 
 <table>
 	<tr>
