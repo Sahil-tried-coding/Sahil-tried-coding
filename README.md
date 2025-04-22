@@ -10,8 +10,8 @@
 <br>
 <b>
 	👨‍🎓 Recent Graduated bachelor's degree in computer science <br>
-🔭 Working on React applications.<br>
-👯 Looking to collaborate on Frontend Development projects.
+🔭 Working on Java 🚀 React applications.<br>
+👯 Looking to collaborate on Full stack Development projects.
 </b>
 
 
