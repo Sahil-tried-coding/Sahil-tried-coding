@@ -1,6 +1,6 @@
   <img
     src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif"
-    width="100%" />
+    width=" 100%" />
 
 <h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> Hey there! </h2>
 
@@ -38,7 +38,7 @@
 	</tr>
 </table>
 
-<div align="center"> 
+<div width="0px" align="center"> 
  
 <table align="left">
   <tr>
