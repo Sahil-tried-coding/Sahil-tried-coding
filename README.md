@@ -5,7 +5,7 @@
 <h2 align="left"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" height="25px" width="25px"> Hey there! </h2>
 
  <div align=center>
-       <b> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%3999ee&size=32&center=true&vCenter=true&width=1200&height=50&lines=I'm+SAHIL.++I+am+currently+working+as+Front-End+Developer" alt="Headline" /></b>
+       <b> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=%3999ee&size=32&center=true&vCenter=true&width=1200&height=50&lines=I'm+SAHIL.++I+am+currently+working+as++Developer" alt="Headline" /></b>
     </div>
 <br>
 <b>
